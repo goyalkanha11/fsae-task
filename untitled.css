@@ -1,0 +1,75 @@
+
+body{
+	background:url(45.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+    height:100%;
+    width:100%;
+ 
+}
+h1{
+	color: white;
+}
+p{
+	font-size: 30px; 
+	text-align: center;
+}
+.cities {
+margin-top:170px; 
+ border: 1px solid white;
+ border-radius: 75px;
+ width: 30%;
+ height: 500px;	
+ float: center;
+margin-left: 35%;
+background: rgba(128,128,128,0.4);
+}
+.iamges {
+	margin: auto;
+
+}
+.asd{
+	width:50%;
+	height:50%;
+	margin-left:25%;
+}
+.form{
+	margin-left: 10px;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius:25px;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+    border-radius: 0px;
+}
+input[type=Password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+    border-radius:25px;
+}
+
+input[type=Password]:focus {
+    border: 3px solid #555;
+    border-radius: 0px;
+}
+a{
+	align-self: center;
+	color: blue;
+
+}
